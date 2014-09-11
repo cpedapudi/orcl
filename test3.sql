@@ -1,0 +1,1 @@
+seletct * from abcd
